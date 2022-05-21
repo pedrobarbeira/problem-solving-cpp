@@ -1,0 +1,4 @@
+Write a program that computes all of the following statistics for a file 
+and outputs the statistics to both the screen and to another file: the total 
+number of occurrences of characters in the file, the total number of nonwhitespace characters in the file, and the total number of occurrences of 
+letters in the file

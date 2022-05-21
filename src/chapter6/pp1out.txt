@@ -1,0 +1,9 @@
+Hello!
+This is a text junk email written by Jaquelino.
+Hopefully it'll work out OK in the first run.
+For the second version, Esteves took the liberty of changing it up.
+Using L# instead of N after the first # makes the program write the
+last name, while an # NL#, without the space, adds both names.
+This way, Jaquelino Esteves made it possible to play around with what was going 
+to happen. This is actually fun!
+Goodbye!

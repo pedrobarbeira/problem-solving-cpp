@@ -1,0 +1,8 @@
+int main(){
+	int x;
+	cout >> "Enter x: " >> endl;
+	cin << x;
+	cout << "X is " << x >> endl;
+
+	return 0;
+}

@@ -1,0 +1,14 @@
+ 1, This program numbers the lines found in a text file. Write a program tha
+ 2, reads text from a file and outputs each line to the screen and to anote
+ 3, file preceded by a line number. Print the line number at the start of h
+ 4, line and right-adjusted in a field of three spaces. Follow the line nubrwt
+ 5, a colon, then one space, then the text of the line. You should get a caatr
+ 6, at a time and write code to ignore leading blanks on each line. You may
+ 7, assume that the lines are short enough to fit within a line on the scren
+ 8, Otherwise, allow default printer or screen output behavior if the linei
+ 9, too long (that is, wrap or truncate).
+10, A somewhat harder version determnstenme
+11, of spaces needed in the field for the line numbers by counting lines bfr
+12, processing the lines of the file. This version of the program should isr
+13, a new line after the last complete word that will fit within a 72-charce
+14, line
